@@ -1,0 +1,30 @@
+Author: Markus Falkhausen
+Adress: Rheinstr. 31
+        61206 Wöllstadt
+        Germany
+Phone: +49 174 633-1998
+EMail: webmaster falkhausen.de
+
+Responsible for content: Markus Falkhausen.
+
+Copyright 2002 for all included documents: Markus Falkhausen, all rights reserved.
+Reproduction in any form needs to be approved by the author.
+
+These documents are only for academical use.
+
+There is no guarantee for the correctness of the given informations.
+If there is a law which prohibits this refusion of guarantee, 
+the minimal allowed legal responsibilities are assumed.
+Don't use the informations in these documents to operate
+endangered technical installations like nuclear power plants,
+air ports or medical equipments.
+
+Sun, Sun Microsystems, the Sun Logo, Java and the Java Logo
+are trademarks or registered trademarks of Sun Microsystems, Inc.
+in the United States and other countries.
+
+Some pictures in these Documents are copyrighted by other companies:
+ o IMSI's Master Photos Collection,
+   1895 Francisco Blvd. East, San Rafael, CA 94901-5506, USA
+ o Hermera Big Box of Art,
+   P.O Box 79093, Hull, Quebec, Canada, J8Y 6V2

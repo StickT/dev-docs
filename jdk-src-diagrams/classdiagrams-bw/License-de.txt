@@ -1,0 +1,30 @@
+Autor:   Markus Falkhausen
+Adresse: Rheinstr. 31
+         61206 Wöllstadt
+         Germany
+Telefon: +49 174 633-1998
+EMail: webmaster falkhausen.de
+
+Inhaltliche Verantwortung: Markus Falkhausen.
+
+Copyright 2002 für alle beiliegenden Dokumente: Markus Falkhausen, all rights reserved.
+Vervielfältigungen aller Art bedürfen der Genehmigung durch den Autor.
+
+Diese Dokumente dienen nur akademischen Zwecken.
+
+Es wird keinerlei Garantie für die Richtigkeit der Informationen gegeben. 
+In dem Falle, das diese Garantieverweigerung rechtlich nicht möglich ist,
+wird die minimal mögliche gesetzliche Garantieleistung übernommen.
+Mit den Informationen in diesen Dokumenten dürfen 
+keine hochgefährdeten technische Anlagen,
+wie Atomkraftwerke, Flughäfen und medizinische Anlagen betrieben werden.
+
+Sun, Sun Microsystems, das Sun Logo, Java und das Java Logo
+sind in den Vereinigten Staaten und anderen Ländern
+Markenzeichen oder eingetragene Warenzeichen von Sun Microsystems, Inc.
+
+Einige Bilder in diesen Dokumenten unterliegen dem Copyright dritter Personen:
+ o IMSI's Master Photos Collection,
+   1895 Francisco Blvd. East, San Rafael, CA 94901-5506, USA
+ o Hermera Big Box of Art,
+   P.O Box 79093, Hull, Quebec, Canada, J8Y 6V2
